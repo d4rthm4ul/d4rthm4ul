@@ -1,6 +1,6 @@
 ### Hi there, dear colleagues. I'm Ulvi 👋
 
-## I'm a Junior Data Scientist (or trying to be😄)  .
+## I'm a Junior Data Scientist (or trying to be😄).
 - 🔭 I’m currently looking for new opportunities in my career!
 - 🌱 I’m presently learning and applying machine learning and deep learning methods.
 - 👬 I’m looking to collaborate with other developers.
@@ -9,6 +9,7 @@
 <br />
 
 ### Languages and data science tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -19,10 +20,13 @@
 <br />
 
 ### Connect with me:
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+
+
 <br />
 <br />
 
