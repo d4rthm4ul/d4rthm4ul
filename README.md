@@ -1,4 +1,4 @@
-### Hi there, dear colleagues. I'm Ulvi 👋
+### Hi there, dear colleagues. I'm Ulvi Salman 👋
 
 ## I'm a Junior Data Scientist (or trying to be😄).
 - 🔭 I’m currently looking for new opportunities in my career!
@@ -22,7 +22,7 @@
 
 <br />
 
----
+
 
 ### Connect with me:
 
