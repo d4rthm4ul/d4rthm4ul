@@ -29,9 +29,5 @@
 
 <img align="left" alt="Ulvi Salman's GitHub stats:" src="https://github-readme-stats.vercel.app/api?username=d4rthm4ul&show_icons=true&hide_border=true" />
 
-
-<br />
-
-
 [linkedin]: https://www.linkedin.com/in/dataulvisalman/
 [facebook]: https://www.facebook.com/ulvisalman085/
