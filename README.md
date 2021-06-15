@@ -1,10 +1,10 @@
-### Hi there, dear colleagues. I'm Ulvi Salman👋
+### Hi there, dear colleagues. I'm Ulvi Salman👋.
 
 ## I'm a Junior Data Scientist (or trying to be😄).
 - 🔭 I’m currently looking for new opportunities in my career!
 - 🌱 I’m presently learning and applying machine learning and deep learning methods.
-- 👬 I’m looking to collaborate with other developers.
-- 🥅 Main goal of 2021: Contribute more to Open Source projects
+- 👬 I’m looking to collaborate with other developers.  
+- 🥅 Main goal of 2021: Contribute more to Open Source projects.
 
 <br />
 
