@@ -7,7 +7,6 @@
 - 🥅 Main goal of 2021: Contribute more to Open Source projects
 
 <br />
-
 ---
 
 ### Languages and data science tools:
