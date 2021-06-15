@@ -1,6 +1,6 @@
 ### Hi there, dear colleagues. I'm Ulvi Salman👋.
 
-## I'm a Junior Data Scientist (or trying to be😄).
+## I'm a Junior Data Scientist (a good one😄).
 - 🔭 I’m currently looking for new opportunities in my career!
 - 🌱 I’m presently learning and applying machine learning and deep learning methods.
 - 👬 I’m looking to collaborate with other developers.  
