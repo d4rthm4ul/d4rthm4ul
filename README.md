@@ -7,6 +7,7 @@
 - 🥅 Main goal of 2021: Contribute more to Open Source projects
 
 <br />
+
 ---
 
 ### Languages and data science tools:
@@ -35,6 +36,9 @@
 <img align="left" alt="Ulvi Salman's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=d4rthm4ul&show_icons=true&hide_border=true" />
 
 <br />
+
+---
+
 <br />
 
 [linkedin]: https://www.linkedin.com/in/dataulvisalman/
