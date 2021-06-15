@@ -24,7 +24,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
+---
 
 <img align="left" alt="Ulvi Salman's GitHub stats:" src="https://github-readme-stats.vercel.app/api?username=d4rthm4ul&show_icons=true&hide_border=true" />
 
