@@ -1,6 +1,6 @@
-### Hi there, dear colleagues. I'm Ulvi 👋
+### Hi there, dear colleagues. I'm Ulvi Salman 👋
 
-## I'm a Junior Data Scientist (or trying to be😄) from Azerbaijan 🇦🇿.
+## I'm a Junior Data Scientist (or trying to be😄)  .
 - 🔭 I’m currently looking for new opportunities in my career!
 - 🌱 I’m presently learning and applying machine learning and deep learning methods.
 - 👬 I’m looking to collaborate with other developers.
@@ -25,6 +25,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+
+[![Ulvi Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4rthm4ul)](https://github.com/d4rthm4ul/github-readme-stats)
 
 
 <br />
