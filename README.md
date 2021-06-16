@@ -5,6 +5,7 @@
 - 🌱 I’m presently learning and applying machine learning and deep learning methods.
 - 👬 I’m looking to collaborate with other developers.  
 - 🥅 Main goal of 2021: Contribute more to Open Source projects.
+
 <br />
 
 ### Languages and data science tools:
