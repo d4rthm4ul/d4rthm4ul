@@ -1,7 +1,7 @@
 ### Hi there, dear colleagues. I'm Ulvi Salman👋.
 
-## I'm a Junior Data Scientist💪.
-- 🔭 I’m currently looking for new opportunities in my career!
+## I'm a Professional Data Scientist💪.
+- 🔭 I’m currently working for Azersun Holding!
 - 🌱 I’m presently learning and applying machine learning and deep learning methods.
 - 👬 I’m looking to collaborate with other developers.  
 - 🥅 Main goal of 2021: Contribute more to Open Source projects.
